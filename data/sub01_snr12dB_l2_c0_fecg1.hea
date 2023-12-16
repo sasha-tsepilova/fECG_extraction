@@ -1,0 +1,64 @@
+sub01_snr12dB_l2_c0_fecg1 34 250 75000
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 -14896 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 -10593 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 19320 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 -1665 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 -258 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 -28114 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 16904 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 7043 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 -8733 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 360 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 4288 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 -10532 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 11683 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 -5535 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 22481 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 8815 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 7984 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 26089 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 -22333 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 -27705 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 4155 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 -18996 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 16885 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 7295 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 22181 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 30367 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 -19789 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 -24385 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 -20277 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 -17414 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 -1109 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 1884 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 -4598 0 ECG
+sub01_snr12dB_l2_c0_fecg1.dat 16 3000(0)/nu 0 0 0 -862 0 ECG
+#n:300000
+#fhr:143.0077
+#mhr:107.7705
+#mtypeacc:nsr
+#ftypeacc:nsr
+#SNRfm:-8.7359
+#mheart:2.0944 0.2000 0.4000
+#fheart:-0.0388 0.3251 -0.3643
+#refpos:3.1416 0.5000 -0.3000
+#ntype:MA MA
+#SNRmn:12
+#macc:0
+#facc:0
+#maccmean:0
+#maccstd:1
+#faccmean:0.0000
+#faccstd:1.0000
+#ftraj:none
+#fname:aecg
+#mres:0.2232
+#fres:0.9021
+#mvcg:6
+#fvcg:2
+#evcg:3
+#posdev:1
+#mectb:0
+#fectb:0
+#nfetus:1
+#nnoise:2
